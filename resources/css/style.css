@@ -12,11 +12,11 @@ h2     {font-weight: 300;
         color: white;   }
 
 
-link. {color: aquamarine;
-      font-size: 16px;   }
+.link {  color: aquamarine;
+         font-size: 16px; 
+         text-decoration: none;}
 
-a { cursor: pointer;
-    text-decoration: underline;   }
+
 
 p { color: Gray;
     font-size: 21px;   }
